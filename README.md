@@ -1,8 +1,8 @@
 # greek-alphabet
-latex 希腊字母 语法
-
+## word 公式语法
+- 花体字 \script字母
+## latex 希腊字母 语法
 适用于 latex、word
-
 
 |大写         | 小写          |          |         |
 | :---        |    :----:     | :----:   |  :----: |
