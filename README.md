@@ -13,8 +13,8 @@ latex 希腊字母 语法
 | $\Epsilon$  |  $\epsilon$   | \Epsilon | \epsilon|
 | $\Zeta$     |  $\zeta$      | \Zeta    | \zeta   |
 | $\Eta$      |  $\eta$       | \Eta     | \eta    |
-| $\Theta$     |  $\theta$      | \Theta    | \theta   |
-| $\Iot$      |  $\iot$       | \Iot     | \iot    |
+| $\Theta$    |  $\theta$     | \Theta   | \theta  |
+| $\Iota$     |  $\iota$      | \Iota    | \iota   |
 | $\Kappa$    |  $\kappa$     | \Kappa   | \kappa  |
 | $\Lambda$   |  $\lambda$    | \Lambda  | \lambda |
 | $\Mu$       |  $\mu$        | \Mu      | \mu     |
