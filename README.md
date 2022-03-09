@@ -13,7 +13,7 @@ latex 希腊字母 语法
 | $\Epsilon$  |  $\epsilon$   | \Epsilon | \epsilon|
 | $\Zeta$     |  $\zeta$      | \Zeta    | \zeta   |
 | $\Eta$      |  $\eta$       | \Eta     | \eta    |
-| $\Thet$     |  $\thet$      | \Thet    | \thet   |
+| $\Theta$     |  $\theta$      | \Theta    | \theta   |
 | $\Iot$      |  $\iot$       | \Iot     | \iot    |
 | $\Kappa$    |  $\kappa$     | \Kappa   | \kappa  |
 | $\Lambda$   |  $\lambda$    | \Lambda  | \lambda |
