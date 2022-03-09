@@ -10,23 +10,24 @@ latex 希腊字母 语法
 | B           | $\beta$       | \Beta    | \beta   |
 | $\Gamma$    |  $\gamma$     | \Gamma   | \gamma  |
 | $\Delta$    |  $\delta$     | \Delta   | \delta  |
-| $\Epsilon$  |  $\epsilon$   | \Epsilon | \epsilon|
+| $E$  |  $\epsilon$   | \Epsilon | \epsilon|
+| $F$  |  $\digamma$   | \Digamma | \digamma|
 | $\Zeta$     |  $\zeta$      | \Zeta    | \zeta   |
 | $\Eta$      |  $\eta$       | \Eta     | \eta    |
 | $\Theta$    |  $\theta$     | \Theta   | \theta  |
-| $\Iota$     |  $\iota$      | \Iota    | \iota   |
-| $\Kappa$    |  $\kappa$     | \Kappa   | \kappa  |
+| $I$     |  $\iota$      | \Iota    | \iota   |
+| $K$    |  $\kappa$     | \Kappa   | \kappa  |
 | $\Lambda$   |  $\lambda$    | \Lambda  | \lambda |
-| $\Mu$       |  $\mu$        | \Mu      | \mu     |
-| $\Nu$       |  $\nu$        | \Nu      | \nu     |
+| $M$       |  $\mu$        | \Mu      | \mu     |
+| $N$       |  $\nu$        | \Nu      | \nu     |
 | $\Xi$       |  $\xi$        | \Xi      | \xi     |
-| $\Omicron$  |  $\omicron$   | \Omicron | \omicron|
+| $O$  |  $\omicron$   | \Omicron | \omicron|
 | $\Pi$       |  $\pi$        | \Pi      | \pi     |
-| $\Rho$      |  $\rho$       | \Rho     | \rho    |
+| $P$      |  $\rho$       | \Rho     | \rho    |
 | $\Sigma$    |  $\sigma$     | \Sigma   | \sigma  |
-| $\Tau$      |  $\tau$       | \Tau     | \tau    |
-| $\Upsilon$  |  $\upsilon$   | \Upsilon | \upsilon|
+| $T$      |  $\tau$       | \Tau     | \tau    |
+| $Y$  |  $\upsilon$   | \Upsilon | \upsilon|
 | $\Phi$      |  $\phi$       | \Phi     | \phi    |
-| $\Chi$      |  $\chi$       | \Chi     | \chi    |
+| $X$      |  $\chi$       | \Chi     | \chi    |
 | $\Psi$      |  $\psi$       | \Psi     | \psi    |
 | $\Omega$    |  $\omega$     | \Omega   | \omega  |
