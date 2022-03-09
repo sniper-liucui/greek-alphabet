@@ -10,24 +10,23 @@ latex 希腊字母 语法
 | B           | $\beta$       | \Beta    | \beta   |
 | $\Gamma$    |  $\gamma$     | \Gamma   | \gamma  |
 | $\Delta$    |  $\delta$     | \Delta   | \delta  |
-| $E$  |  $\epsilon$   | \Epsilon | \epsilon|
-| $F$  |  $\digamma$   | \Digamma | \digamma|
-| $\Zeta$     |  $\zeta$      | \Zeta    | \zeta   |
-| $\Eta$      |  $\eta$       | \Eta     | \eta    |
+| $E$         |  $\epsilon$   | \Epsilon | \epsilon|
+| $Z$         |  $\zeta$      | \Zeta    | \zeta   |
+| $E$         |  $\eta$       | \Eta     | \eta    |
 | $\Theta$    |  $\theta$     | \Theta   | \theta  |
-| $I$     |  $\iota$      | \Iota    | \iota   |
-| $K$    |  $\kappa$     | \Kappa   | \kappa  |
+| $I$         |  $\iota$      | \Iota    | \iota   |
+| $K$         |  $\kappa$     | \Kappa   | \kappa  |
 | $\Lambda$   |  $\lambda$    | \Lambda  | \lambda |
-| $M$       |  $\mu$        | \Mu      | \mu     |
-| $N$       |  $\nu$        | \Nu      | \nu     |
+| $M$         |  $\mu$        | \Mu      | \mu     |
+| $N$         |  $\nu$        | \Nu      | \nu     |
 | $\Xi$       |  $\xi$        | \Xi      | \xi     |
-| $O$  |  $\omicron$   | \Omicron | \omicron|
+| $O$         |  $\omicron$   | \Omicron | \omicron|
 | $\Pi$       |  $\pi$        | \Pi      | \pi     |
-| $P$      |  $\rho$       | \Rho     | \rho    |
+| $P$         |  $\rho$       | \Rho     | \rho    |
 | $\Sigma$    |  $\sigma$     | \Sigma   | \sigma  |
-| $T$      |  $\tau$       | \Tau     | \tau    |
-| $Y$  |  $\upsilon$   | \Upsilon | \upsilon|
+| $T$         |  $\tau$       | \Tau     | \tau    |
+| $Y$         |  $\upsilon$   | \Upsilon | \upsilon|
 | $\Phi$      |  $\phi$       | \Phi     | \phi    |
-| $X$      |  $\chi$       | \Chi     | \chi    |
+| $X$         |  $\chi$       | \Chi     | \chi    |
 | $\Psi$      |  $\psi$       | \Psi     | \psi    |
 | $\Omega$    |  $\omega$     | \Omega   | \omega  |
