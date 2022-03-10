@@ -12,7 +12,7 @@
 | $\Delta$    |  $\delta$     | \Delta   | \delta  |
 | $E$         |  $\epsilon$   | \Epsilon | \epsilon|
 | $Z$         |  $\zeta$      | \Zeta    | \zeta   |
-| $E$         |  $\eta$       | \Eta     | \eta    |
+| $H$         |  $\eta$       | \Eta     | \eta    |
 | $\Theta$    |  $\theta$     | \Theta   | \theta  |
 | $I$         |  $\iota$      | \Iota    | \iota   |
 | $K$         |  $\kappa$     | \Kappa   | \kappa  |
